@@ -16,4 +16,12 @@ public class pages {
         System.out.println("something");
     }
 
+
+    @Test
+
+    public void dosomething()
+    {
+        System.out.println("Doing mergve isuues");
+    }
+
 }
