@@ -8,4 +8,12 @@ public class pages {
     {
         System.out.println("Printing");
     }
+
+    @Test
+
+    public  void something()
+    {
+        System.out.println("something");
+    }
+
 }
